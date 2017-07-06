@@ -1,0 +1,5 @@
+<p>My online journal homepage!!!</p>
+
+<ul>
+  <li>{{ entries }}</li>
+</ul>
